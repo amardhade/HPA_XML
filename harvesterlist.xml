@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContractorDetails>
+  <harvestorType type="Gadi">
+    <ContractorCode Code="68902">
+      <ContractorName>१५ -१६ जगताप बापूराव गणपत -</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68607">
+      <ContractorName>१५ -१६ आवाळे बंडू वामन(राठोड नामदेव कनीराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68608">
+      <ContractorName>१५ -१६ भाडळे प्रदिप पंढरीनाथ(राठोड भारत धोंडीराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68609">
+      <ContractorName>१५ -१६ बांडे राजेंद्र दगडू(शेलार राजेंद्र दामू)</ContractorName>
+    </ContractorCode>
+  </harvestorType>
+  <harvestorType type="Doki">
+    <ContractorCode Code="68642">
+      <ContractorName>१५ -१६ फडतरे दादाभाऊ विष्णु</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68785">
+      <ContractorName>१५ -१६ थोरात सुभाष शांताराम(पावरा छगन भिमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68778">
+      <ContractorName>१५ -१६ थोरात अक्षय सुभाष(पावरा जगन भिमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68748">
+      <ContractorName>१५ -१६ सातव दत्तात्रय गेनबा(शेख अली रमजू)</ContractorName>
+    </ContractorCode>
+  </harvestorType>
+</ContractorDetails>
