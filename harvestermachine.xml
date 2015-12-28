@@ -9,4 +9,13 @@
   <ContractorCode Code="3">
     <ContractorName>Test Contractor</ContractorName>
   </ContractorCode>
+  <ContractorCode Code="112">
+    <ContractorName>Test Contractor-112</ContractorName>
+  </ContractorCode>
+  <ContractorCode Code="113">
+    <ContractorName>Test Contractor-113</ContractorName>
+  </ContractorCode>
+  <ContractorCode Code="114">
+    <ContractorName>Test Contractor-114</ContractorName>
+  </ContractorCode>
 </ContractorDetails>
