@@ -5,29 +5,43 @@
     <GadiwanCode>8</GadiwanCode>
     <GadiwanName>राठोड  अर्जुन  नर्सिंग </GadiwanName>
     <VehicleNo>MH-12-AE-749</VehicleNo>
+    <TrollyNoA>T12452-1</TrollyNoA>
+    <TrollyNoB>T12452-2</TrollyNoB>
     <GadiwanCode>7</GadiwanCode>
     <GadiwanName>राठोड test न  नर्सिंग </GadiwanName>
     <VehicleNo>MH-12-AAA-749</VehicleNo>
+    <TrollyNoA>T12452-3</TrollyNoA>
+    <TrollyNoB>T12452-4</TrollyNoB>
     <GadiwanCode>9</GadiwanCode>
     <GadiwanName>राठोड  दत्तू  श्रावण </GadiwanName>
     <VehicleNo>MH-12-BM-7500</VehicleNo>
+    <TrollyNoA>T12452-5</TrollyNoA>
+    <TrollyNoB>T12452-6</TrollyNoB>
 </ContractorCode>
 <ContractorCode Code="12463">
     <ContractorName>खडे  सोमनाथ  बापूराव  (BG)</ContractorName>
     <GadiwanCode>103</GadiwanCode>
     <GadiwanName>जवरे  शेषराव  रामभाऊ </GadiwanName>
     <VehicleNo>MH-12-KL-5689</VehicleNo>
+    <TrollyNoA>T12452-7</TrollyNoA>
+    <TrollyNoB>T12452-8</TrollyNoB>
     <GadiwanCode>104</GadiwanCode>
     <GadiwanName>खाडे  संजय  बापू </GadiwanName>
    <VehicleNo>MH-12-MK-2589</VehicleNo>
+   <TrollyNoA>T12452-9</TrollyNoA>
+   <TrollyNoB>T12452-10</TrollyNoB>
 </ContractorCode>
 <ContractorCode Code="12464">
     <ContractorName>खडे  सोमनाथ  test  (BG)</ContractorName>
     <GadiwanCode>106</GadiwanCode>
     <GadiwanName>जवरे  शेषराव  रामभाऊ </GadiwanName>
     <VehicleNo>MH-12-KK-5689</VehicleNo>
+    <TrollyNoA>T12452-11</TrollyNoA>
+    <TrollyNoB>T12452-12</TrollyNoB>
     <GadiwanCode>107</GadiwanCode>
     <GadiwanName>खाडे  संजयt </GadiwanName>
    <VehicleNo>MH-12-MM-2589</VehicleNo>
+   <TrollyNoA>T12452-13</TrollyNoA>
+   <TrollyNoB>T12452-14</TrollyNoB>
 </ContractorCode>
 </ContractorDetails>
